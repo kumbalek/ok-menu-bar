@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kumbalek/ok-menu-bar/issues"
   },
-  "homepage": "https://github.com/kumbalek/ok-menu-bar#readme"
+  "homepage": "https://github.com/kumbalek/ok-menu-bar#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
